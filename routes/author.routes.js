@@ -4,7 +4,6 @@ const express = require("express");
 const router = express.Router();
 
 // Modelos
-const { Book } = require("../models/Book.js");
 const { Author } = require("../models/Author.js");
 
 // Rutas
