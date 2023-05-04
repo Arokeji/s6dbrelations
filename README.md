@@ -1,3 +1,3 @@
-# node-simple-template
+# S6 Relations
 
-Hola este es el repo de template
+Relaciones
